@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Emery (@emerydata580)
 
-<!--
-**emerydata580/emerydata580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Singapore. Mostly interested in systems programming, low-level networking, and CLI tools that do not waste RAM.
 
-Here are some ideas to get you started:
+#### What I am up to
+- Writing network daemons and custom parsers in Rust.
+- Tinkering with Linux internals, eBPF, and container runtimes.
+- Experimenting with headless WebAssembly (WASI, Wasmtime).
+- Maintaining small C utilities and POSIX shell scripts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Core Tech
+- **Languages:** Rust, C, POSIX Shell, Python
+- **Systems:** Linux, Git, QEMU, GDB, perf
+- **Runtimes & Targets:** WASI, WebAssembly, x86_64, aarch64
+
+#### Reach out
+- Matrix: `@emerydata:matrix.org`
+- Email: Check commit history GPG identities or open an issue on any pinned repo.
